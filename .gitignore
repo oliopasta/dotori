@@ -1,0 +1,6 @@
+# 환경 변수 파일 무시
+.env
+.venv/
+env/
+__pycache__/
+*.log

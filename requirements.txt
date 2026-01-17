@@ -1,0 +1,6 @@
+discord.py
+python-telegram-bot
+aiohttp
+pytz
+playwright
+python-dotenv
